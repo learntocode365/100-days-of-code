@@ -1,7 +1,6 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+### Day 0: February 23, 2025 
 
 **Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
 
@@ -9,7 +8,7 @@
 
 **Link to work:** [Calculator App](http://www.example.com)
 
-### Day 0: February 30, 2016 (Example 2)
+### Day 1: February 24, 2025 
 ##### (delete me or comment me out)
 
 **Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
@@ -19,7 +18,7 @@
 **Link(s) to work**: [Calculator App](http://www.example.com)
 
 
-### Day 1: June 27, Monday
+### Day 2: February 25, 2025 
 
 **Today's Progress**: I've gone through many exercises on FreeCodeCamp.
 
